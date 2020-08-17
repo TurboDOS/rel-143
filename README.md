@@ -14,3 +14,7 @@ TurboDOS. Have fun with it, and thanks for asking. Mike"
 
 Can you ask for more?
 The bad part is that they don't have sources anymore.
+
+We are now working to recover as much of TurboDOS as possible.
+Please send a pull request or contact admin@turbodos.org if you have anything that can be added to this repository.
+
